@@ -17,6 +17,7 @@ wp-config.php
 /wp-content/languages/
 /wp-content/cache/
 /wp-content/debug.log
+/wp-content/index.php
 
 # Dependencias y archivos del sistema
 node_modules/
