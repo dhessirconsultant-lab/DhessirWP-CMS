@@ -23,3 +23,7 @@ wp-config.php
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Caché que Elementor y WPForms regeneran solos
+/wp-content/uploads/elementor/css/
+/wp-content/uploads/wpforms/cache/
