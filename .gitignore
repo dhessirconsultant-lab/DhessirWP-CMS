@@ -1,0 +1,24 @@
+# Núcleo de WordPress: se descarga con `lando wp core download --locale=es_CO`
+/wp-admin/
+/wp-includes/
+/*.php
+/license.txt
+/readme.html
+/wp-config-sample.php
+/.htaccess
+
+# Configuración local con credenciales: se genera en cada equipo
+wp-config.php
+
+# Tema y plugins de terceros: se instalan con scripts/instalar-dependencias.sh
+/wp-content/themes/
+/wp-content/plugins/
+/wp-content/upgrade/
+/wp-content/languages/
+/wp-content/cache/
+/wp-content/debug.log
+
+# Dependencias y archivos del sistema
+node_modules/
+.DS_Store
+Thumbs.db

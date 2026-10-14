@@ -1,0 +1,6 @@
+name: dhessir-cms
+recipe: wordpress
+config:
+  php: "8.2"
+  database: mariadb
+  webroot: .
