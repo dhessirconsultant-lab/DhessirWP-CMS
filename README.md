@@ -46,3 +46,9 @@ wp-content/uploads/                Logo, ícono y fotos de la biblioteca de medi
 ```
 
 El núcleo de WordPress, `wp-config.php`, el tema y los plugins de terceros no se versionan: se descargan con los comandos de arriba.
+
+## Estado de la entrega
+
+Esta versión entrega el **mínimo requerido** por el Taller Práctico CMS: entorno Lando (`recipe: wordpress`), `database.sql`, logo SVG en encabezado y pie, menú de 4 páginas con menú móvil, sombras multicapa con elevación al pasar el mouse, microinteracciones y diseño adaptable a celular, todo maquetado a mano en Elementor.
+
+El trabajo continúa para hacer el sitio fiel a la versión hecha en código ([DhessirApp](https://github.com/dhessirconsultant-lab/DhessirApp)).
